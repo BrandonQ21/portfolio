@@ -1,0 +1,67 @@
+#navbar {
+	height:40px;
+	width:100%;
+	float:left;
+	background-color:#111111;
+	font-family: "Oswald";
+}
+
+#navbar_stuff {
+	margin:0 auto;
+	width:570px;
+}
+
+#nav_left {
+	margin:10px auto;
+}
+
+#nav_left a {
+	text-decoration:none;
+	color:#BBBBBB;
+}
+
+#nav_left a:hover {
+	color:#EA622A;
+	transition:color 0.2s ease;
+	-webkit-transition:color 0.2s ease;
+	-moz-transition:color 0.2s ease;
+}
+
+#nav_left li {
+	float:left;
+	margin-left:20px;
+}
+
+#flag_banner {
+	float:left;
+	margin-left:20px;
+	margin-top:-90px;
+	transition:margin-top 0.5s ease;
+	-webkit-transition:margin-top 0.5s ease;
+	-moz-transition:margin-top 0.5s ease;
+}
+
+#flag_banner:hover {
+	margin-top:-20px;
+}
+
+#nav_right {
+	margin:-2px auto;
+}
+
+#nav_right a {
+	color:#BBBBBB;
+	text-decoration: none;
+	transition:color 0.2s ease;
+	-webkit-transition:color 0.2s ease;
+	-moz-transition:color 0.2s ease;
+}
+
+#nav_right a:hover {
+	color:#EA622A;
+}
+
+#nav_right li {
+	float:left;
+	margin-left:20px;
+}
