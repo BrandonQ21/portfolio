@@ -3,7 +3,10 @@
 <html>
 	
 	<head>
+		<meta charset="utf-8" />
 		<title>Brandon Quinn</title>
+
+		<script src="js/jQuery.js"></script>
 
 		<link href='http://fonts.googleapis.com/css?family=EB+Garamond|Oswald' rel='stylesheet' type='text/css'>
 
@@ -25,21 +28,20 @@
 					</ul>
 						<a href="https://github.com/BrandonQ21"><img id="flag_banner" src="res/flag.png"></a>
 					<ul id="nav_right">
-						<a href="#"><li>WORK</li></a>
+						<a href="#" id="workLink"><li>WORK</li></a>
 						<a href="#"><li>CONTACT</li></a>
 					</ul>
 				</div>
 			</div>
 
 			<div id="subnav">
-				<ul>
+				<ul id="subnavLinks">
 					<a href="#"><li>CODE</li></a>
 					<a href="#"><li>DESIGN</li></a>
 					<a href="#"><li>PHOTOGRAPHY</li></a>
 					<a href="#"><li>OTHER</li></a>
 				</ul>
 			</div>
-
 		</div>
 	</body>
 </html>

@@ -3,7 +3,10 @@
 <html>
 	
 	<head>
+		<meta charset="utf-8" />
 		<title>Brandon Quinn</title>
+
+		<script src="js/jQuery.js"></script>
 
 		<link href='http://fonts.googleapis.com/css?family=EB+Garamond|Oswald' rel='stylesheet' type='text/css'>
 

@@ -10,7 +10,9 @@
 
 #subnav ul {
 	list-style: none;
-	margin-top:2px;
+	width:300px;
+	margin:2px auto;
+	padding-left:400px;
 }
 
 #subnav a {

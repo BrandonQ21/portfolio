@@ -4,6 +4,7 @@
 	float:left;
 	background-color:#111111;
 	font-family: "Oswald";
+	position:relative;
 	z-index:5;
 }
 
