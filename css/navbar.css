@@ -4,6 +4,7 @@
 	float:left;
 	background-color:#111111;
 	font-family: "Oswald";
+	z-index:5;
 }
 
 #navbar_stuff {
@@ -18,13 +19,13 @@
 #nav_left a {
 	text-decoration:none;
 	color:#BBBBBB;
+	transition:color 0.2s ease;
+	-webkit-transition:color 0.2s ease;
+	-moz-transition:color 0.2s ease;
 }
 
 #nav_left a:hover {
 	color:#EA622A;
-	transition:color 0.2s ease;
-	-webkit-transition:color 0.2s ease;
-	-moz-transition:color 0.2s ease;
 }
 
 #nav_left li {

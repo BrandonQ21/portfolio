@@ -1,0 +1,30 @@
+#subnav {
+	width:100%;
+	height:30px;
+	float:left;
+	background-color:#444444;
+	font-family:"Oswald";
+	z-index: -5;
+	
+}
+
+#subnav ul {
+	list-style: none;
+	margin-top:2px;
+}
+
+#subnav a {
+	color:#CCCCCC;
+	transition:color 0.2s ease;
+	-webkit-transition:color 0.2s ease;
+	-moz-transition:color 0.2s ease;
+}
+
+#subnav a:hover {
+	color:#EA622A;
+}
+
+#subnav li {
+	float:left;
+	margin-left: 8px;
+}
