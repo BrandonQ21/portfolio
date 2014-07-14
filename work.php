@@ -1,4 +1,4 @@
-<!DCOTYPE html>
+<!DOCTYPE html>
 
 <html>
 	
@@ -14,6 +14,8 @@
 		<link rel="stylesheet" href="css/template.css" type="text/css"/>
 		<link rel="stylesheet" href="css/navbar.css" type="text/css"/>
 		<link rel="stylesheet" href="css/subnav.css" type="text/css"/>
+		<link rel="stylesheet" href="css/portfolio_tiles.css" type="text/css"/>
+
 	</head>
 
 	<body>
@@ -42,6 +44,58 @@
 					<a href="#"><li>OTHER</li></a>
 				</ul>
 			</div>
+
+			<section id="portfolio_tiles">
+				<article class="tile">
+					<img src='res/noimg.jpg'>
+
+				</article>
+				<article class="tile">
+					<img src='res/noimg.jpg'>
+
+				</article>
+				<article class="tile">
+					<img src='res/noimg.jpg'>
+
+				</article>
+				<article class="tile">
+					<img src='res/noimg.jpg'>
+
+				</article>
+				<article class="tile">
+					<img src='res/noimg.jpg'>
+
+				</article>
+				<article class="tile">
+					<img src='res/noimg.jpg'>
+
+				</article>
+				<article class="tile">
+					<img src='res/noimg.jpg'>
+
+				</article>
+				<article class="tile">
+					<img src='res/noimg.jpg'>
+
+				</article>
+				<article class="tile">
+					<img src='res/noimg.jpg'>
+
+				</article>
+				<article class="tile">
+					<img src='res/noimg.jpg'>
+
+				</article>
+				<article class="tile">
+					<img src='res/noimg.jpg'>
+
+				</article>
+				<article class="tile">
+					<img src='res/noimg.jpg'>
+
+				</article>
+			</section>
+
 		</div>
 	</body>
 </html>

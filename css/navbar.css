@@ -15,6 +15,7 @@
 
 #nav_left {
 	margin:10px auto;
+	list-style: none;
 }
 
 #nav_left a {
@@ -49,6 +50,7 @@
 
 #nav_right {
 	margin:-2px auto;
+	list-style: none;
 }
 
 #nav_right a {
